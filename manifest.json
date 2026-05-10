@@ -1,0 +1,53 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Vibe Check for Men",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Vibe Check",
+  "start_url": "/",
+  "theme_color": "#F5F1EA",
+  "icons": [
+    {
+      "src": "https://sammarksk.github.io/Vibe-check/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 192,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": true
+    },
+    {
+      "src": "https://sammarksk.github.io/Vibe-check/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 512,
+      "is512x512": true,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://sammarksk.github.io/Vibe-check/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 180,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "description": "The app serves as a reminder for men how to behave and navigate in ever-changing environments in cohabitation setting with the opposite gender"
+}
