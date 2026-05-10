@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
   "dir": "ltr",
-  "display": "standalone",
+  "display": "fullscreen",
   "name": "Vibe Check for Men",
-  "orientation": "any",
+  "orientation": "natural",
   "scope": "/",
   "short_name": "Vibe Check",
-  "start_url": "/",
+  "start_url": "https://sammarksk.github.io/Vibe-check/",
   "theme_color": "#F5F1EA",
   "icons": [
     {
@@ -49,5 +49,11 @@
       "is192x192": false
     }
   ],
-  "description": "The app serves as a reminder for men how to behave and navigate in ever-changing environments in cohabitation setting with the opposite gender"
+  "description": "The app serves as a reminder for men how to behave and navigate in ever-changing environments in cohabitation setting with the opposite gender",
+  "lang": "en",
+  "categories": [
+    "entertainment",
+    "productivity"
+  ],
+  "id": "id2494736"
 }
